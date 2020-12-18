@@ -1,0 +1,32 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status":"0",
+        "link":"https://play.google.com/store/apps/details?id=",
+        "interid":"ca-app-pub-8412424986090177/8281645665",
+        "nativeid":"",
+        "bannerid":"",
+        "rewardid":"",
+
+        "pengaturan_iklan":"4",
+        "interval": 0,
+
+        "startappid":"205319473",
+        "unityGameID":"1497705",
+        "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+        "link_update":"https://www.google.com/",
+        "version_app":5,
+        
+        "fan_inter":"",
+        "fan_banner_native":"",
+        "fan_banner":"",
+
+        "hpk_admob1":"buku",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ]
+    }
